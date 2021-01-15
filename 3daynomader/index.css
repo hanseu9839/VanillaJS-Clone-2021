@@ -1,0 +1,23 @@
+
+
+body{
+    background-color: white;
+}
+
+.btn{
+    cursor: pointer;
+}
+h1{
+    color:#2980b9;
+    transition: color .5s ease-in-out;
+}
+.click{
+ color:  #7f8c8d
+}
+.form,
+.greetings{
+    display:none;
+}
+.showing{
+    display:block;
+}
