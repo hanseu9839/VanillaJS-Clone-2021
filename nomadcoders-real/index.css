@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     color:#8e44ad;
 }
@@ -31,14 +30,4 @@ body{
     height:100%;
     z-index: -1;
     animation: fadeIn 0.5 linear;
-=======
-  
-.form,
-.grettings {
-  display: none;
-}
-
-.showing {
-  display: block;
->>>>>>> 36e8e5050996b02d068b2eacdd98230ccfb49500
 }
