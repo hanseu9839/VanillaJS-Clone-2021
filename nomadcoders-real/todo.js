@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const toDoForm = document.querySelector(".js-toDoForm"),
+=======
+const toDoForm = document.querySelector(".js-toDoform"),
+>>>>>>> 36e8e5050996b02d068b2eacdd98230ccfb49500
     toDoInput = toDoForm.querySelector("input"),
     toDoList = document.querySelector(".js-toDoList");
 const TODOS_LS = 'toDos';
@@ -110,4 +114,9 @@ function init() {
     toDoForm.addEventListener("submit", handleSubmit)
 }
 
+<<<<<<< HEAD
 init();
+=======
+init();
+
+>>>>>>> 36e8e5050996b02d068b2eacdd98230ccfb49500
